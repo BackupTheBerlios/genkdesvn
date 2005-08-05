@@ -1,0 +1,10 @@
+# ChangeLog for kdebase/indexlib
+# Copyright 1999-2005 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /home/xubuntu/berlios_backup/github/tmp-cvs/genkdesvn/Repository/genkdesvn/kde-base/indexlib/ChangeLog,v 1.1 2005/08/05 22:51:41 unborn Exp $
+
+*indexlib-7 (04 Aug 2005)
+
+  04 Aug 2005; Mario Tanev <mtanev@csua.berkeley.edu>  indexlib-7.ebuild files/digest-indexlib-7
+  New ebuild
+
+

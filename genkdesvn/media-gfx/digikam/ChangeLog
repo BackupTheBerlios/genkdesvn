@@ -1,0 +1,9 @@
+# ChangeLog for nedia-gfx/digikam
+# Copyright 1999-2005 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /home/xubuntu/berlios_backup/github/tmp-cvs/genkdesvn/Repository/genkdesvn/media-gfx/digikam/ChangeLog,v 1.1 2005/08/05 22:51:43 unborn Exp $
+
+*digikam-7-r1 (11 Jul 2005)
+
+  11 Jul 2005; Mario Tanev <mtanev@csua.berkeley.edu>  digikam-7-r1.ebuild files/digest-digikam-7-r1
+  Introducing dependency on sqlite3 and removing dependency on gdbm
+

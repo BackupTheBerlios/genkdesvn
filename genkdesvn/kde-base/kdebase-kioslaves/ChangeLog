@@ -1,0 +1,9 @@
+# ChangeLog for kde-base/kdebase-kioslaves
+# Copyright 1999-2005 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /home/xubuntu/berlios_backup/github/tmp-cvs/genkdesvn/Repository/genkdesvn/kde-base/kdebase-kioslaves/ChangeLog,v 1.1 2005/08/05 22:51:40 unborn Exp $
+
+*kdebase-kioslaves-7-r1 (28 May 2005)
+
+  28 May 2005; Mario Tanev <mtanev@csua.berkeley.edu>  kdebase-kioslaves-7-r1.ebuild files/digest-kdebase-kioslaves-7-r1
+  Weekly revision bump; bugs 90629, 105765, 106067, 95644, 43943
+
